@@ -1,0 +1,10 @@
+{ "1_test_img": "./dataset/ISPRS/test/RGB/",
+  "2_test_img": "./dataset/ISPRS/test/DSM/",
+  "3_test_img": "./dataset/ISPRS/test/IRRG/",
+  "4_test_img": "./dataset/ISPRS/test/RGBIR/",
+
+  "test_label": "./dataset/ISPRS/test/gray_label/",
+
+  "runs": "./runs/test/",
+  "classes": "./json/classes.json",
+  "ckpt": "./runs/train/ckpts/"}

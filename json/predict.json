@@ -1,0 +1,11 @@
+{ "1_input_img": "./dataset/ISPRS/test/RGB/",
+  "2_input_img": "./dataset/ISPRS/test/DSM/",
+  "3_input_img": "./dataset/ISPRS/test/IRRG/",
+
+  "ckpt": "./runs/train/ckpts/",
+  "runs": "./runs/predict/",
+  "save_png": "./runs/predict/png_result/",
+  "save_tif": "./runs/predict/tif_result/",
+  "add_geo": "./dataset/ISPRS/test/DSM/",
+  "classes": "./json/classes.json",
+  "crop": "./runs/predict/crop_&_mask/"}

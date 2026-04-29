@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+utils/__pycache__/
+model/__pycache__/
+
+# Large model weight excluded from git push
+weights/sam2_hiera_small.pt

@@ -1,0 +1,12 @@
+{ "1_train_img": "./dataset/ISPRS/train/RGB/",
+  "1_val_img": "./dataset/ISPRS/val/RGB/",
+  "2_train_img": "./dataset/ISPRS/train/DSM/",
+  "2_val_img": "./dataset/ISPRS/val/DSM/",
+  "3_train_img": "./dataset/ISPRS/train/IRRG/",
+  "3_val_img": "./dataset/ISPRS/val/IRRG/",
+
+  "train_label": "./dataset/ISPRS/train/gray_label/",
+  "val_label": "./dataset/ISPRS/val/gray_label/",
+
+  "runs": "./runs/train/",
+  "classes": "./json/classes.json"}

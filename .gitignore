@@ -3,5 +3,7 @@ __pycache__/
 utils/__pycache__/
 model/__pycache__/
 
-# Large model weight excluded from git push
-weights/sam2_hiera_small.pt
+# Keep folder structure, but ignore local model weights
+weights/*
+!weights/README.md
+!weights/.gitkeep
